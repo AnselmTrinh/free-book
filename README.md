@@ -1,11 +1,13 @@
-2 - dbeaver download https://dbeaver.io/download/
-3 - Composer Download https://getcomposer.org/download/
-7 - changer dans le fichier .env "DB_DATABASE" => *nomduprojet*
+# SETUP PROJET 
+
+1 - dbeaver download https://dbeaver.io/download/
+2 - Composer Download https://getcomposer.org/download/
+3 - changer dans le fichier .env "DB_DATABASE" => *nomduprojet*
 
 
 ressource = dossier ou tt se passe
 
-Clone du repo et start du projet
+## Clone du repo et start du projet
 
 1 - `git clone https://github.com/AnselmTrinh/free-book.git`
 
@@ -23,6 +25,6 @@ Clone du repo et start du projet
 
 
 
-Télécharger React : 
+## Télécharger React : 
 
-composer require laravel/ui
+`composer require laravel/ui`
