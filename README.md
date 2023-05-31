@@ -1,10 +1,5 @@
-1 - Créer un repo Git 
 2 - dbeaver download https://dbeaver.io/download/
 3 - Composer Download https://getcomposer.org/download/
-4 - Laravel -> https://laravel.com/docs/10.x   // getting started
-5 - aller dans l'explorateur de fichier, là où
-le dossier projet sera.
-6 - Exécuter les commandes
 7 - changer dans le fichier .env "DB_DATABASE" => *nomduprojet*
 
 
@@ -25,3 +20,9 @@ Clone du repo et start du projet
 6 - `npm run dev`
 
 7 - `php artisan serve`
+
+
+
+Télécharger React : 
+
+composer require laravel/ui
