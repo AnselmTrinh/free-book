@@ -7,6 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-    test
+    page 2 test de 
+    @foreach($name as $key => $value)
+    
+        <div>{{$value}}</div>
+    @endforeach
 </body>
 </html>
